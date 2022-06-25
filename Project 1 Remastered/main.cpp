@@ -172,7 +172,7 @@ struct Point
 //};
 
 #define THREAD_NUM 4
-#define POINT_NUM 50000000
+#define POINT_NUM 5000000
 #define Buffer_Size 1000
 
 const float para[4][6] = {{0,0,0,0.16,0,0},{0.85,0.04, -0.04,0.85,0,1.6},{0.2,-0.26,0.23,0.22,0,1.6},{-0.15,0.28,0.26,0.24,0,0.44}};

@@ -447,26 +447,28 @@ CMakeFiles/LEAF.dir/main.cpp.o: ../main.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/dirent.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/dirent.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/fnmatch.h \
-  /usr/X11R6/include/X11/Xlib.h \
-  /usr/X11R6/include/X11/X.h \
-  /usr/X11R6/include/X11/Xfuncproto.h \
-  /usr/X11R6/include/X11/Xosdefs.h \
-  /usr/X11R6/include/X11/Xutil.h \
-  /usr/X11R6/include/X11/keysym.h \
-  /usr/X11R6/include/X11/keysymdef.h \
+  /opt/X11/include/X11/Xlib.h \
+  /opt/X11/include/X11/X.h \
+  /opt/X11/include/X11/Xfuncproto.h \
+  /opt/X11/include/X11/Xosdefs.h \
+  /opt/X11/include/X11/Xutil.h \
+  /opt/X11/include/X11/keysym.h \
+  /opt/X11/include/X11/keysymdef.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/queue \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/deque
 
 
-/usr/X11R6/include/X11/keysym.h:
+/opt/X11/include/X11/keysymdef.h:
 
-/usr/X11R6/include/X11/Xutil.h:
+/opt/X11/include/X11/keysym.h:
 
-/usr/X11R6/include/X11/Xfuncproto.h:
+/opt/X11/include/X11/Xutil.h:
 
-/usr/X11R6/include/X11/X.h:
+/opt/X11/include/X11/Xosdefs.h:
 
-/usr/X11R6/include/X11/Xlib.h:
+/opt/X11/include/X11/X.h:
+
+/opt/X11/include/X11/Xlib.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/fnmatch.h:
 
@@ -1000,8 +1002,6 @@ CMakeFiles/LEAF.dir/main.cpp.o: ../main.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/libkern/_OSByteOrder.h:
 
-/usr/X11R6/include/X11/Xosdefs.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/concepts:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/wchar.h:
@@ -1049,6 +1049,8 @@ CMakeFiles/LEAF.dir/main.cpp.o: ../main.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__algorithm/is_partitioned.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/wctype.h:
+
+/opt/X11/include/X11/Xfuncproto.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include/stdint.h:
 
@@ -1137,8 +1139,6 @@ CMakeFiles/LEAF.dir/main.cpp.o: ../main.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_types/_int8_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__utility/declval.h:
-
-/usr/X11R6/include/X11/keysymdef.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/float.h:
 
