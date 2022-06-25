@@ -1,0 +1,3 @@
+/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang’s MacBook Pro/HPC/HPC Project File/Project 1-Barnsley Farn/build/CMakeFiles/HA.dir
+/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang’s MacBook Pro/HPC/HPC Project File/Project 1-Barnsley Farn/build/CMakeFiles/edit_cache.dir
+/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang’s MacBook Pro/HPC/HPC Project File/Project 1-Barnsley Farn/build/CMakeFiles/rebuild_cache.dir

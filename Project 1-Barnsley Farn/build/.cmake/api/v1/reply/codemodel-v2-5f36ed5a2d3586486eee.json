@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HA",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HA-Debug-1df3be73b7d4b213af50.json",
+					"name" : "HA",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang\u2019s MacBook Pro/HPC/HPC Project File/Project 1-Barnsley Farn/build",
+		"source" : "/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang\u2019s MacBook Pro/HPC/HPC Project File/Project 1-Barnsley Farn/your_project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

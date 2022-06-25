@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang’s MacBook Pro/HPC/HPC Project File/Project 1-Barnsley Farn/build",
+  "command": "/usr/bin/clang++  -I\"/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang’s MacBook Pro/HPC/HPC Project File/Project 1-Barnsley Farn/your_project/inc\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -O2 -L/usr/X11R6/lib -lm -lpthread -lX11 -o CMakeFiles/HA.dir/main.cpp.o -c \"/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang’s MacBook Pro/HPC/HPC Project File/Project 1-Barnsley Farn/your_project/main.cpp\"",
+  "file": "/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang’s MacBook Pro/HPC/HPC Project File/Project 1-Barnsley Farn/your_project/main.cpp"
+}
+]

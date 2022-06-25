@@ -1,0 +1,3 @@
+/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang’s MacBook Pro/HPC/HPC Project File/Project 1 Remastered/solve_X11_mac/build/CMakeFiles/X11_debug.dir
+/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang’s MacBook Pro/HPC/HPC Project File/Project 1 Remastered/solve_X11_mac/build/CMakeFiles/edit_cache.dir
+/Users/randy-zixiang/Documents/Documents - Randy-ZixiangZhang’s MacBook Pro/HPC/HPC Project File/Project 1 Remastered/solve_X11_mac/build/CMakeFiles/rebuild_cache.dir
